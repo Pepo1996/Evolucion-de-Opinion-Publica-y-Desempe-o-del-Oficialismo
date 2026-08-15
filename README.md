@@ -1,3 +1,3 @@
 # Evolucion-de-Opinion-Publica-y-Desempeno-del-Oficialismo -UDESA-y-Bloomberg/AtlasIntel
-<img width="872" height="358" alt="image" src="https://github.com/user-attachments/assets/84048b61-8c9b-44ba-a10d-80843f896a8b" /> 
+<img width="518" height="296" alt="image" src="https://github.com/user-attachments/assets/a47ea0d6-7e20-48b6-8054-a1efb82e9e93" />
 
